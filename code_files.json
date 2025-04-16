@@ -1,0 +1,43 @@
+{
+  "python": {
+    "parser": "tree-sitter-python",
+    "files": [
+      "D:\\Desktop\\nlp_codebase_project\\main.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\code_extraction\\file_filter.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\code_extraction\\parser.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\code_extraction\\run_extraction.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\code_extraction\\setup.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\code_extraction\\__init__.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\code_processing\\chunk_extractor.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\code_processing\\metadata_handler.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\code_processing\\preprocess_chunks.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\code_processing\\__init__.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\embeddings\\codebert_embeddings.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\embeddings\\vector_db.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\embeddings\\__init__.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\models\\llm_integration.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\models\\rag_model.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\models\\__init__.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\query_processing\\query_contextualizer.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\query_processing\\query_embeddings.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\query_processing\\query_preprocess.py",
+      "D:\\Desktop\\nlp_codebase_project\\modules\\query_processing\\__init__.py",
+      "D:\\Desktop\\nlp_codebase_project\\utils\\config.py",
+      "D:\\Desktop\\nlp_codebase_project\\utils\\file_utils.py",
+      "D:\\Desktop\\nlp_codebase_project\\utils\\logging_utils.py",
+      "D:\\Desktop\\nlp_codebase_project\\utils\\__init__.py"
+    ]
+  },
+  "c": {
+    "parser": "tree-sitter-c",
+    "files": []
+  },
+  "javascript": {
+    "parser": "tree-sitter-javascript",
+    "files": []
+  },
+  "java": {
+    "parser": "tree-sitter-java",
+    "files": []
+  }
+}
