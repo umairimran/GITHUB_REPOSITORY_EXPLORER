@@ -1,0 +1,44 @@
+{
+  "python": {
+    "parser": "tree-sitter-python",
+    "files": [
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\abdx.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\Cameramanager.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\ChatServices.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\db_connection.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\detection.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\DetectionModels.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\get-pip.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\helper.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\html_generator.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\imagegenration.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\init.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\model.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\script.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\sms.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\whastaapp.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\WhatsappService.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\xibo_assign_layout_to_display.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\xibu_auth.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\xibu_layout.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\gesture_model\\app.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\gesture_model\\model\\__init__.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\gesture_model\\model\\keypoint_classifier\\keypoint_classifier.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\gesture_model\\model\\point_history_classifier\\point_history_classifier.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\gesture_model\\utils\\cvfpscalc.py",
+      "E:\\TEAM_MARETING_SOFTWARE_ABULLAH\\AI_MARKETING_APPLICATION\\gesture_model\\utils\\__init__.py"
+    ]
+  },
+  "c": {
+    "parser": "tree-sitter-c",
+    "files": []
+  },
+  "javascript": {
+    "parser": "tree-sitter-javascript",
+    "files": []
+  },
+  "java": {
+    "parser": "tree-sitter-java",
+    "files": []
+  }
+}
